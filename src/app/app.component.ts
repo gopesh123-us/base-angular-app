@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'base-angular-app';
+  title = 'base-angular-app-with-bootstrap';
 }
